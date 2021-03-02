@@ -1,0 +1,6 @@
+C:\Users\889825\source\repos\MultiThreading_handsOn\MultiThreading_handsOn\bin\Debug\MultiThreading_handsOn.exe.config
+C:\Users\889825\source\repos\MultiThreading_handsOn\MultiThreading_handsOn\bin\Debug\MultiThreading_handsOn.exe
+C:\Users\889825\source\repos\MultiThreading_handsOn\MultiThreading_handsOn\bin\Debug\MultiThreading_handsOn.pdb
+C:\Users\889825\source\repos\MultiThreading_handsOn\MultiThreading_handsOn\obj\Debug\MultiThreading_handsOn.csproj.CoreCompileInputs.cache
+C:\Users\889825\source\repos\MultiThreading_handsOn\MultiThreading_handsOn\obj\Debug\MultiThreading_handsOn.exe
+C:\Users\889825\source\repos\MultiThreading_handsOn\MultiThreading_handsOn\obj\Debug\MultiThreading_handsOn.pdb

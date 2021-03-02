@@ -1,0 +1,13 @@
+C:\Users\889825\source\repos\Nunit_HandsOn_2\Nunit_HandsOn_2\bin\Debug\Nunit_HandsOn_2.exe.config
+C:\Users\889825\source\repos\Nunit_HandsOn_2\Nunit_HandsOn_2\bin\Debug\Nunit_HandsOn_2.exe
+C:\Users\889825\source\repos\Nunit_HandsOn_2\Nunit_HandsOn_2\bin\Debug\Nunit_HandsOn_2.pdb
+C:\Users\889825\source\repos\Nunit_HandsOn_2\Nunit_HandsOn_2\obj\Debug\Nunit_HandsOn_2.csproj.CoreCompileInputs.cache
+C:\Users\889825\source\repos\Nunit_HandsOn_2\Nunit_HandsOn_2\obj\Debug\Nunit_HandsOn_2.exe
+C:\Users\889825\source\repos\Nunit_HandsOn_2\Nunit_HandsOn_2\obj\Debug\Nunit_HandsOn_2.pdb
+G:\HandOn\New folder\ADMDF_HandON\Nunit\Nunit_HandsOn_2\Nunit_HandsOn_2\bin\Debug\Nunit_HandsOn_2.exe.config
+G:\HandOn\New folder\ADMDF_HandON\Nunit\Nunit_HandsOn_2\Nunit_HandsOn_2\bin\Debug\Nunit_HandsOn_2.exe
+G:\HandOn\New folder\ADMDF_HandON\Nunit\Nunit_HandsOn_2\Nunit_HandsOn_2\bin\Debug\Nunit_HandsOn_2.pdb
+G:\HandOn\New folder\ADMDF_HandON\Nunit\Nunit_HandsOn_2\Nunit_HandsOn_2\obj\Debug\Nunit_HandsOn_2.csprojAssemblyReference.cache
+G:\HandOn\New folder\ADMDF_HandON\Nunit\Nunit_HandsOn_2\Nunit_HandsOn_2\obj\Debug\Nunit_HandsOn_2.csproj.CoreCompileInputs.cache
+G:\HandOn\New folder\ADMDF_HandON\Nunit\Nunit_HandsOn_2\Nunit_HandsOn_2\obj\Debug\Nunit_HandsOn_2.exe
+G:\HandOn\New folder\ADMDF_HandON\Nunit\Nunit_HandsOn_2\Nunit_HandsOn_2\obj\Debug\Nunit_HandsOn_2.pdb

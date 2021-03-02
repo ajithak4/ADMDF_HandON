@@ -1,0 +1,6 @@
+C:\Users\889825\source\repos\MultiThreading\Async Await usage - 1\Named_parameters\bin\Debug\Named_parameters.exe.config
+C:\Users\889825\source\repos\MultiThreading\Async Await usage - 1\Named_parameters\bin\Debug\Named_parameters.exe
+C:\Users\889825\source\repos\MultiThreading\Async Await usage - 1\Named_parameters\bin\Debug\Named_parameters.pdb
+C:\Users\889825\source\repos\MultiThreading\Async Await usage - 1\Named_parameters\obj\Debug\Named_parameters.csproj.CoreCompileInputs.cache
+C:\Users\889825\source\repos\MultiThreading\Async Await usage - 1\Named_parameters\obj\Debug\Named_parameters.exe
+C:\Users\889825\source\repos\MultiThreading\Async Await usage - 1\Named_parameters\obj\Debug\Named_parameters.pdb

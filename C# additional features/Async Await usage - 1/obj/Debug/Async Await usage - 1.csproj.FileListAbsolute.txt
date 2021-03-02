@@ -1,0 +1,14 @@
+C:\Users\889825\source\repos\Async Await usage - 1\Async Await usage - 1\obj\Debug\Async Await usage - 1.csprojAssemblyReference.cache
+C:\Users\889825\source\repos\Async Await usage - 1\Async Await usage - 1\obj\Debug\Async Await usage - 1.csproj.CoreCompileInputs.cache
+C:\Users\889825\source\repos\Async Await usage - 1\Async Await usage - 1\bin\Debug\Async Await usage - 1.exe.config
+C:\Users\889825\source\repos\Async Await usage - 1\Async Await usage - 1\bin\Debug\Async Await usage - 1.exe
+C:\Users\889825\source\repos\Async Await usage - 1\Async Await usage - 1\bin\Debug\Async Await usage - 1.pdb
+C:\Users\889825\source\repos\Async Await usage - 1\Async Await usage - 1\obj\Debug\Async Await usage - 1.exe
+C:\Users\889825\source\repos\Async Await usage - 1\Async Await usage - 1\obj\Debug\Async Await usage - 1.pdb
+C:\Users\889825\source\repos\MultiThreading\Async Await usage - 1\Async Await usage - 1\bin\Debug\Async Await usage - 1.exe.config
+C:\Users\889825\source\repos\MultiThreading\Async Await usage - 1\Async Await usage - 1\bin\Debug\Async Await usage - 1.exe
+C:\Users\889825\source\repos\MultiThreading\Async Await usage - 1\Async Await usage - 1\bin\Debug\Async Await usage - 1.pdb
+C:\Users\889825\source\repos\MultiThreading\Async Await usage - 1\Async Await usage - 1\obj\Debug\Async Await usage - 1.csprojAssemblyReference.cache
+C:\Users\889825\source\repos\MultiThreading\Async Await usage - 1\Async Await usage - 1\obj\Debug\Async Await usage - 1.csproj.CoreCompileInputs.cache
+C:\Users\889825\source\repos\MultiThreading\Async Await usage - 1\Async Await usage - 1\obj\Debug\Async Await usage - 1.exe
+C:\Users\889825\source\repos\MultiThreading\Async Await usage - 1\Async Await usage - 1\obj\Debug\Async Await usage - 1.pdb

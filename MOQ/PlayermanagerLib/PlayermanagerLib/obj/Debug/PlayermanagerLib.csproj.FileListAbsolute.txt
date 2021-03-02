@@ -1,0 +1,7 @@
+G:\HandOn\New folder\demo\ADMDF_HandON\MOQ\PlayermanagerLib\PlayermanagerLib\obj\Debug\PlayermanagerLib.csprojAssemblyReference.cache
+G:\HandOn\New folder\demo\ADMDF_HandON\MOQ\PlayermanagerLib\PlayermanagerLib\obj\Debug\PlayermanagerLib.csproj.CoreCompileInputs.cache
+G:\HandOn\New folder\demo\ADMDF_HandON\MOQ\PlayermanagerLib\PlayermanagerLib\bin\Debug\PlayermanagerLib.exe.config
+G:\HandOn\New folder\demo\ADMDF_HandON\MOQ\PlayermanagerLib\PlayermanagerLib\bin\Debug\PlayermanagerLib.exe
+G:\HandOn\New folder\demo\ADMDF_HandON\MOQ\PlayermanagerLib\PlayermanagerLib\bin\Debug\PlayermanagerLib.pdb
+G:\HandOn\New folder\demo\ADMDF_HandON\MOQ\PlayermanagerLib\PlayermanagerLib\obj\Debug\PlayermanagerLib.exe
+G:\HandOn\New folder\demo\ADMDF_HandON\MOQ\PlayermanagerLib\PlayermanagerLib\obj\Debug\PlayermanagerLib.pdb

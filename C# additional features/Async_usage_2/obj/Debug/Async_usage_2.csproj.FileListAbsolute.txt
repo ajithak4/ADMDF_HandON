@@ -1,0 +1,10 @@
+C:\Users\889825\source\repos\MultiThreading\Async Await usage - 1\Async_usage_2\obj\Debug\Async_usage_2.csprojAssemblyReference.cache
+C:\Users\889825\source\repos\MultiThreading\Async Await usage - 1\Async_usage_2\obj\Debug\Async_usage_2.Form1.resources
+C:\Users\889825\source\repos\MultiThreading\Async Await usage - 1\Async_usage_2\obj\Debug\Async_usage_2.Properties.Resources.resources
+C:\Users\889825\source\repos\MultiThreading\Async Await usage - 1\Async_usage_2\obj\Debug\Async_usage_2.csproj.GenerateResource.cache
+C:\Users\889825\source\repos\MultiThreading\Async Await usage - 1\Async_usage_2\obj\Debug\Async_usage_2.csproj.CoreCompileInputs.cache
+C:\Users\889825\source\repos\MultiThreading\Async Await usage - 1\Async_usage_2\bin\Debug\Async_usage_2.exe.config
+C:\Users\889825\source\repos\MultiThreading\Async Await usage - 1\Async_usage_2\bin\Debug\Async_usage_2.exe
+C:\Users\889825\source\repos\MultiThreading\Async Await usage - 1\Async_usage_2\bin\Debug\Async_usage_2.pdb
+C:\Users\889825\source\repos\MultiThreading\Async Await usage - 1\Async_usage_2\obj\Debug\Async_usage_2.exe
+C:\Users\889825\source\repos\MultiThreading\Async Await usage - 1\Async_usage_2\obj\Debug\Async_usage_2.pdb

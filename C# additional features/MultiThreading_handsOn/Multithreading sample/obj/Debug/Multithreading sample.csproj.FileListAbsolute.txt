@@ -1,0 +1,7 @@
+C:\Users\889825\source\repos\MultiThreading_handsOn\Multithreading sample\obj\Debug\Multithreading sample.csprojAssemblyReference.cache
+C:\Users\889825\source\repos\MultiThreading_handsOn\Multithreading sample\obj\Debug\Multithreading sample.csproj.CoreCompileInputs.cache
+C:\Users\889825\source\repos\MultiThreading_handsOn\Multithreading sample\bin\Debug\Multithreading sample.exe.config
+C:\Users\889825\source\repos\MultiThreading_handsOn\Multithreading sample\bin\Debug\Multithreading sample.exe
+C:\Users\889825\source\repos\MultiThreading_handsOn\Multithreading sample\bin\Debug\Multithreading sample.pdb
+C:\Users\889825\source\repos\MultiThreading_handsOn\Multithreading sample\obj\Debug\Multithreading sample.exe
+C:\Users\889825\source\repos\MultiThreading_handsOn\Multithreading sample\obj\Debug\Multithreading sample.pdb
