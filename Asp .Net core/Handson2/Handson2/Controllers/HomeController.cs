@@ -18,6 +18,13 @@ namespace Handson2.Controllers
 			_logger = logger;
 		}
 
+		public IActionResult ITOrganizations()
+		{
+			
+
+			return View();
+		}
+
 		public IActionResult Index()
 		{
 			return View();
