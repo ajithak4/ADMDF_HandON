@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Handson-1", "Handson-1\Handson-1.csproj", "{12C2B8AA-8C89-4CC5-B83B-0CE5A0F316BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asp mvc", "Asp mvc\Asp mvc.csproj", "{9424119C-8EC9-417B-AC84-75363342F262}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12C2B8AA-8C89-4CC5-B83B-0CE5A0F316BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12C2B8AA-8C89-4CC5-B83B-0CE5A0F316BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12C2B8AA-8C89-4CC5-B83B-0CE5A0F316BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12C2B8AA-8C89-4CC5-B83B-0CE5A0F316BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9424119C-8EC9-417B-AC84-75363342F262}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9424119C-8EC9-417B-AC84-75363342F262}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9424119C-8EC9-417B-AC84-75363342F262}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9424119C-8EC9-417B-AC84-75363342F262}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3293B1CB-914E-4A95-8604-CAD328E0A3BA}
+	EndGlobalSection
+EndGlobal
