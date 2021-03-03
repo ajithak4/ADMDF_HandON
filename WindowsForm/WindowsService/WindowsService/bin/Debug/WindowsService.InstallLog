@@ -1,0 +1,38 @@
+﻿Installing assembly 'G:\HandOn\New\repo\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   i = 
+   logfile = G:\HandOn\New\repo\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = G:\HandOn\New\repo\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'G:\HandOn\New\repo\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   i = 
+   logfile = G:\HandOn\New\repo\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = G:\HandOn\New\repo\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Restoring event log to previous state for source Service1.
+Uninstalling assembly 'G:\HandOn\New\repo\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = G:\HandOn\New\repo\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = G:\HandOn\New\repo\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'G:\HandOn\New\repo\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   i = 
+   logfile = G:\HandOn\New\repo\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = G:\HandOn\New\repo\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'G:\HandOn\New\repo\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   i = 
+   logfile = G:\HandOn\New\repo\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = G:\HandOn\New\repo\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 

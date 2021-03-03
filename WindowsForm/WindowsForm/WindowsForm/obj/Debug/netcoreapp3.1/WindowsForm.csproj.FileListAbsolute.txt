@@ -1,0 +1,15 @@
+G:\HandOn\New folder\repo\WindowsForm\WindowsForm\obj\Debug\netcoreapp3.1\WindowsForm.csprojAssemblyReference.cache
+G:\HandOn\New folder\repo\WindowsForm\WindowsForm\obj\Debug\netcoreapp3.1\WindowsForm.Form1.resources
+G:\HandOn\New folder\repo\WindowsForm\WindowsForm\obj\Debug\netcoreapp3.1\WindowsForm.csproj.GenerateResource.cache
+G:\HandOn\New folder\repo\WindowsForm\WindowsForm\obj\Debug\netcoreapp3.1\WindowsForm.AssemblyInfoInputs.cache
+G:\HandOn\New folder\repo\WindowsForm\WindowsForm\obj\Debug\netcoreapp3.1\WindowsForm.AssemblyInfo.cs
+G:\HandOn\New folder\repo\WindowsForm\WindowsForm\obj\Debug\netcoreapp3.1\WindowsForm.csproj.CoreCompileInputs.cache
+G:\HandOn\New folder\repo\WindowsForm\WindowsForm\bin\Debug\netcoreapp3.1\WindowsForm.exe
+G:\HandOn\New folder\repo\WindowsForm\WindowsForm\bin\Debug\netcoreapp3.1\WindowsForm.deps.json
+G:\HandOn\New folder\repo\WindowsForm\WindowsForm\bin\Debug\netcoreapp3.1\WindowsForm.runtimeconfig.json
+G:\HandOn\New folder\repo\WindowsForm\WindowsForm\bin\Debug\netcoreapp3.1\WindowsForm.runtimeconfig.dev.json
+G:\HandOn\New folder\repo\WindowsForm\WindowsForm\bin\Debug\netcoreapp3.1\WindowsForm.dll
+G:\HandOn\New folder\repo\WindowsForm\WindowsForm\bin\Debug\netcoreapp3.1\WindowsForm.pdb
+G:\HandOn\New folder\repo\WindowsForm\WindowsForm\obj\Debug\netcoreapp3.1\WindowsForm.dll
+G:\HandOn\New folder\repo\WindowsForm\WindowsForm\obj\Debug\netcoreapp3.1\WindowsForm.pdb
+G:\HandOn\New folder\repo\WindowsForm\WindowsForm\obj\Debug\netcoreapp3.1\WindowsForm.genruntimeconfig.cache

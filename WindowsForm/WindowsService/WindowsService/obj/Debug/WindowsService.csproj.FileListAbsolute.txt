@@ -1,0 +1,9 @@
+G:\HandOn\New folder\repo\WindowsService\WindowsService\bin\Debug\WindowsService.exe.config
+G:\HandOn\New folder\repo\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+G:\HandOn\New folder\repo\WindowsService\WindowsService\bin\Debug\WindowsService.pdb
+G:\HandOn\New folder\repo\WindowsService\WindowsService\obj\Debug\WindowsService.csprojAssemblyReference.cache
+G:\HandOn\New folder\repo\WindowsService\WindowsService\obj\Debug\WindowsService.ProjectInstaller.resources
+G:\HandOn\New folder\repo\WindowsService\WindowsService\obj\Debug\WindowsService.csproj.GenerateResource.cache
+G:\HandOn\New folder\repo\WindowsService\WindowsService\obj\Debug\WindowsService.csproj.CoreCompileInputs.cache
+G:\HandOn\New folder\repo\WindowsService\WindowsService\obj\Debug\WindowsService.exe
+G:\HandOn\New folder\repo\WindowsService\WindowsService\obj\Debug\WindowsService.pdb
