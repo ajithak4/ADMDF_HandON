@@ -1,0 +1,37 @@
+G:\HandOn\New\demo\ADMDF_HandON\Asp .Net core\Asp mvc\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\HandOn\New\demo\ADMDF_HandON\Asp .Net core\Asp mvc\bin\Debug\netcoreapp3.1\appsettings.json
+G:\HandOn\New\demo\ADMDF_HandON\Asp .Net core\Asp mvc\bin\Debug\netcoreapp3.1\Asp mvc.exe
+G:\HandOn\New\demo\ADMDF_HandON\Asp .Net core\Asp mvc\bin\Debug\netcoreapp3.1\Asp mvc.deps.json
+G:\HandOn\New\demo\ADMDF_HandON\Asp .Net core\Asp mvc\bin\Debug\netcoreapp3.1\Asp mvc.runtimeconfig.json
+G:\HandOn\New\demo\ADMDF_HandON\Asp .Net core\Asp mvc\bin\Debug\netcoreapp3.1\Asp mvc.runtimeconfig.dev.json
+G:\HandOn\New\demo\ADMDF_HandON\Asp .Net core\Asp mvc\bin\Debug\netcoreapp3.1\Asp mvc.dll
+G:\HandOn\New\demo\ADMDF_HandON\Asp .Net core\Asp mvc\bin\Debug\netcoreapp3.1\Asp mvc.pdb
+G:\HandOn\New\demo\ADMDF_HandON\Asp .Net core\Asp mvc\bin\Debug\netcoreapp3.1\Asp mvc.Views.dll
+G:\HandOn\New\demo\ADMDF_HandON\Asp .Net core\Asp mvc\bin\Debug\netcoreapp3.1\Asp mvc.Views.pdb
+G:\HandOn\New\demo\ADMDF_HandON\Asp .Net core\Asp mvc\obj\Debug\netcoreapp3.1\Asp mvc.csprojAssemblyReference.cache
+G:\HandOn\New\demo\ADMDF_HandON\Asp .Net core\Asp mvc\obj\Debug\netcoreapp3.1\Asp mvc.AssemblyInfoInputs.cache
+G:\HandOn\New\demo\ADMDF_HandON\Asp .Net core\Asp mvc\obj\Debug\netcoreapp3.1\Asp mvc.AssemblyInfo.cs
+G:\HandOn\New\demo\ADMDF_HandON\Asp .Net core\Asp mvc\obj\Debug\netcoreapp3.1\Asp mvc.csproj.CoreCompileInputs.cache
+G:\HandOn\New\demo\ADMDF_HandON\Asp .Net core\Asp mvc\obj\Debug\netcoreapp3.1\Asp mvc.MvcApplicationPartsAssemblyInfo.cache
+G:\HandOn\New\demo\ADMDF_HandON\Asp .Net core\Asp mvc\obj\Debug\netcoreapp3.1\Asp mvc.RazorAssemblyInfo.cache
+G:\HandOn\New\demo\ADMDF_HandON\Asp .Net core\Asp mvc\obj\Debug\netcoreapp3.1\Asp mvc.RazorAssemblyInfo.cs
+G:\HandOn\New\demo\ADMDF_HandON\Asp .Net core\Asp mvc\obj\Debug\netcoreapp3.1\staticwebassets\Asp mvc.StaticWebAssets.Manifest.cache
+G:\HandOn\New\demo\ADMDF_HandON\Asp .Net core\Asp mvc\obj\Debug\netcoreapp3.1\staticwebassets\Asp mvc.StaticWebAssets.xml
+G:\HandOn\New\demo\ADMDF_HandON\Asp .Net core\Asp mvc\obj\Debug\netcoreapp3.1\scopedcss\bundle\Asp mvc.styles.css
+G:\HandOn\New\demo\ADMDF_HandON\Asp .Net core\Asp mvc\obj\Debug\netcoreapp3.1\Asp mvc.TagHelpers.input.cache
+G:\HandOn\New\demo\ADMDF_HandON\Asp .Net core\Asp mvc\obj\Debug\netcoreapp3.1\Asp mvc.TagHelpers.output.cache
+G:\HandOn\New\demo\ADMDF_HandON\Asp .Net core\Asp mvc\obj\Debug\netcoreapp3.1\Asp mvc.RazorCoreGenerate.cache
+G:\HandOn\New\demo\ADMDF_HandON\Asp .Net core\Asp mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+G:\HandOn\New\demo\ADMDF_HandON\Asp .Net core\Asp mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+G:\HandOn\New\demo\ADMDF_HandON\Asp .Net core\Asp mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+G:\HandOn\New\demo\ADMDF_HandON\Asp .Net core\Asp mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\HandOn\New\demo\ADMDF_HandON\Asp .Net core\Asp mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\HandOn\New\demo\ADMDF_HandON\Asp .Net core\Asp mvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+G:\HandOn\New\demo\ADMDF_HandON\Asp .Net core\Asp mvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+G:\HandOn\New\demo\ADMDF_HandON\Asp .Net core\Asp mvc\obj\Debug\netcoreapp3.1\Asp mvc.RazorTargetAssemblyInfo.cache
+G:\HandOn\New\demo\ADMDF_HandON\Asp .Net core\Asp mvc\obj\Debug\netcoreapp3.1\Asp mvc.RazorTargetAssemblyInfo.cs
+G:\HandOn\New\demo\ADMDF_HandON\Asp .Net core\Asp mvc\obj\Debug\netcoreapp3.1\Asp mvc.Views.pdb
+G:\HandOn\New\demo\ADMDF_HandON\Asp .Net core\Asp mvc\obj\Debug\netcoreapp3.1\Asp mvc.dll
+G:\HandOn\New\demo\ADMDF_HandON\Asp .Net core\Asp mvc\obj\Debug\netcoreapp3.1\Asp mvc.pdb
+G:\HandOn\New\demo\ADMDF_HandON\Asp .Net core\Asp mvc\obj\Debug\netcoreapp3.1\Asp mvc.genruntimeconfig.cache
+G:\HandOn\New\demo\ADMDF_HandON\Asp .Net core\Asp mvc\obj\Debug\netcoreapp3.1\Asp mvc.csproj.CopyComplete

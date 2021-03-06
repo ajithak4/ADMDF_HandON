@@ -1,0 +1,28 @@
+﻿@model List<Employee>
+
+@{
+    ViewData["Title"] = "GetEmployeeList";
+}
+
+<h1>GetEmployeeList</h1>
+
+@foreach (var i in Model)
+{
+    @if (i.IsPermanent == true)
+    {
+        <div>
+            <span><b>@i.Name</b>   </span>
+            <span><b>@i.Salary</b>    </span>
+            <span><b>@i.IsPermanent</b>    </span>
+        </div>
+    }
+    else
+    {
+        <div>
+            <span>@i.Name    </span>
+            <span>@i.Salary    </span>
+            <span>@i.IsPermanent    </span>
+        </div>
+
+    }
+}
