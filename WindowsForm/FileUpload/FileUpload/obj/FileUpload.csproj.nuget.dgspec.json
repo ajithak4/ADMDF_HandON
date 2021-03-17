@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\HandOn\\New\\repo\\WindowsForm\\FileUpload\\FileUpload\\FileUpload.csproj": {}
+    "G:\\HandOn\\New\\demo\\ADMDF_HandON\\WindowsForm\\FileUpload\\FileUpload\\FileUpload.csproj": {}
   },
   "projects": {
-    "G:\\HandOn\\New\\repo\\WindowsForm\\FileUpload\\FileUpload\\FileUpload.csproj": {
+    "G:\\HandOn\\New\\demo\\ADMDF_HandON\\WindowsForm\\FileUpload\\FileUpload\\FileUpload.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\HandOn\\New\\repo\\WindowsForm\\FileUpload\\FileUpload\\FileUpload.csproj",
+        "projectUniqueName": "G:\\HandOn\\New\\demo\\ADMDF_HandON\\WindowsForm\\FileUpload\\FileUpload\\FileUpload.csproj",
         "projectName": "FileUpload",
-        "projectPath": "G:\\HandOn\\New\\repo\\WindowsForm\\FileUpload\\FileUpload\\FileUpload.csproj",
+        "projectPath": "G:\\HandOn\\New\\demo\\ADMDF_HandON\\WindowsForm\\FileUpload\\FileUpload\\FileUpload.csproj",
         "packagesPath": "C:\\Users\\AJITH\\.nuget\\packages\\",
-        "outputPath": "G:\\HandOn\\New\\repo\\WindowsForm\\FileUpload\\FileUpload\\obj\\",
+        "outputPath": "G:\\HandOn\\New\\demo\\ADMDF_HandON\\WindowsForm\\FileUpload\\FileUpload\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

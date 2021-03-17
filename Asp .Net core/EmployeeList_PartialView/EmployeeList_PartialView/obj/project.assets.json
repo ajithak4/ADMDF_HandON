@@ -6012,23 +6012,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\889825\\.nuget\\packages\\": {},
+    "C:\\Users\\AJITH\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\889825\\source\\repos\\EmployeeList_PartialView\\EmployeeList_PartialView\\EmployeeList_PartialView.csproj",
+      "projectUniqueName": "G:\\HandOn\\New\\demo\\ADMDF_HandON\\Asp .Net core\\EmployeeList_PartialView\\EmployeeList_PartialView\\EmployeeList_PartialView.csproj",
       "projectName": "EmployeeList_PartialView",
-      "projectPath": "C:\\Users\\889825\\source\\repos\\EmployeeList_PartialView\\EmployeeList_PartialView\\EmployeeList_PartialView.csproj",
-      "packagesPath": "C:\\Users\\889825\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\889825\\source\\repos\\EmployeeList_PartialView\\EmployeeList_PartialView\\obj\\",
+      "projectPath": "G:\\HandOn\\New\\demo\\ADMDF_HandON\\Asp .Net core\\EmployeeList_PartialView\\EmployeeList_PartialView\\EmployeeList_PartialView.csproj",
+      "packagesPath": "C:\\Users\\AJITH\\.nuget\\packages\\",
+      "outputPath": "G:\\HandOn\\New\\demo\\ADMDF_HandON\\Asp .Net core\\EmployeeList_PartialView\\EmployeeList_PartialView\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\889825\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\AJITH\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6077,7 +6077,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

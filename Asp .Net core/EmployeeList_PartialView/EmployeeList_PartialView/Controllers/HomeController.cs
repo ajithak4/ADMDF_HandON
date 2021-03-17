@@ -38,7 +38,7 @@ namespace EmployeeList_PartialView.Controllers
 
         public IActionResult Privacy()
         {
-            return View();
+            return View(e);
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
