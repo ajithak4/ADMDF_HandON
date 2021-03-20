@@ -1,0 +1,13 @@
+G:\HandOn\New\demo\ADMDF_HandON\Design Pattern\Adapter\Adapter\bin\Debug\netcoreapp3.1\Adapter.exe
+G:\HandOn\New\demo\ADMDF_HandON\Design Pattern\Adapter\Adapter\bin\Debug\netcoreapp3.1\Adapter.deps.json
+G:\HandOn\New\demo\ADMDF_HandON\Design Pattern\Adapter\Adapter\bin\Debug\netcoreapp3.1\Adapter.runtimeconfig.json
+G:\HandOn\New\demo\ADMDF_HandON\Design Pattern\Adapter\Adapter\bin\Debug\netcoreapp3.1\Adapter.runtimeconfig.dev.json
+G:\HandOn\New\demo\ADMDF_HandON\Design Pattern\Adapter\Adapter\bin\Debug\netcoreapp3.1\Adapter.dll
+G:\HandOn\New\demo\ADMDF_HandON\Design Pattern\Adapter\Adapter\bin\Debug\netcoreapp3.1\Adapter.pdb
+G:\HandOn\New\demo\ADMDF_HandON\Design Pattern\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.csprojAssemblyReference.cache
+G:\HandOn\New\demo\ADMDF_HandON\Design Pattern\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.AssemblyInfoInputs.cache
+G:\HandOn\New\demo\ADMDF_HandON\Design Pattern\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.AssemblyInfo.cs
+G:\HandOn\New\demo\ADMDF_HandON\Design Pattern\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.csproj.CoreCompileInputs.cache
+G:\HandOn\New\demo\ADMDF_HandON\Design Pattern\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.dll
+G:\HandOn\New\demo\ADMDF_HandON\Design Pattern\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.pdb
+G:\HandOn\New\demo\ADMDF_HandON\Design Pattern\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.genruntimeconfig.cache

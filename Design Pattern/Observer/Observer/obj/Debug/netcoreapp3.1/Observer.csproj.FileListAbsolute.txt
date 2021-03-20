@@ -1,0 +1,13 @@
+G:\HandOn\New\demo\ADMDF_HandON\Design Pattern\Observer\Observer\bin\Debug\netcoreapp3.1\Observer.exe
+G:\HandOn\New\demo\ADMDF_HandON\Design Pattern\Observer\Observer\bin\Debug\netcoreapp3.1\Observer.deps.json
+G:\HandOn\New\demo\ADMDF_HandON\Design Pattern\Observer\Observer\bin\Debug\netcoreapp3.1\Observer.runtimeconfig.json
+G:\HandOn\New\demo\ADMDF_HandON\Design Pattern\Observer\Observer\bin\Debug\netcoreapp3.1\Observer.runtimeconfig.dev.json
+G:\HandOn\New\demo\ADMDF_HandON\Design Pattern\Observer\Observer\bin\Debug\netcoreapp3.1\Observer.dll
+G:\HandOn\New\demo\ADMDF_HandON\Design Pattern\Observer\Observer\bin\Debug\netcoreapp3.1\Observer.pdb
+G:\HandOn\New\demo\ADMDF_HandON\Design Pattern\Observer\Observer\obj\Debug\netcoreapp3.1\Observer.AssemblyInfoInputs.cache
+G:\HandOn\New\demo\ADMDF_HandON\Design Pattern\Observer\Observer\obj\Debug\netcoreapp3.1\Observer.AssemblyInfo.cs
+G:\HandOn\New\demo\ADMDF_HandON\Design Pattern\Observer\Observer\obj\Debug\netcoreapp3.1\Observer.csproj.CoreCompileInputs.cache
+G:\HandOn\New\demo\ADMDF_HandON\Design Pattern\Observer\Observer\obj\Debug\netcoreapp3.1\Observer.dll
+G:\HandOn\New\demo\ADMDF_HandON\Design Pattern\Observer\Observer\obj\Debug\netcoreapp3.1\Observer.pdb
+G:\HandOn\New\demo\ADMDF_HandON\Design Pattern\Observer\Observer\obj\Debug\netcoreapp3.1\Observer.genruntimeconfig.cache
+G:\HandOn\New\demo\ADMDF_HandON\Design Pattern\Observer\Observer\obj\Debug\netcoreapp3.1\Observer.csprojAssemblyReference.cache

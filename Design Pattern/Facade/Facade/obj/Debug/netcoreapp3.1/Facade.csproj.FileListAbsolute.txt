@@ -1,0 +1,13 @@
+G:\HandOn\New\demo\ADMDF_HandON\Design Pattern\Facade\Facade\bin\Debug\netcoreapp3.1\Facade.exe
+G:\HandOn\New\demo\ADMDF_HandON\Design Pattern\Facade\Facade\bin\Debug\netcoreapp3.1\Facade.deps.json
+G:\HandOn\New\demo\ADMDF_HandON\Design Pattern\Facade\Facade\bin\Debug\netcoreapp3.1\Facade.runtimeconfig.json
+G:\HandOn\New\demo\ADMDF_HandON\Design Pattern\Facade\Facade\bin\Debug\netcoreapp3.1\Facade.runtimeconfig.dev.json
+G:\HandOn\New\demo\ADMDF_HandON\Design Pattern\Facade\Facade\bin\Debug\netcoreapp3.1\Facade.dll
+G:\HandOn\New\demo\ADMDF_HandON\Design Pattern\Facade\Facade\bin\Debug\netcoreapp3.1\Facade.pdb
+G:\HandOn\New\demo\ADMDF_HandON\Design Pattern\Facade\Facade\obj\Debug\netcoreapp3.1\Facade.csprojAssemblyReference.cache
+G:\HandOn\New\demo\ADMDF_HandON\Design Pattern\Facade\Facade\obj\Debug\netcoreapp3.1\Facade.AssemblyInfoInputs.cache
+G:\HandOn\New\demo\ADMDF_HandON\Design Pattern\Facade\Facade\obj\Debug\netcoreapp3.1\Facade.AssemblyInfo.cs
+G:\HandOn\New\demo\ADMDF_HandON\Design Pattern\Facade\Facade\obj\Debug\netcoreapp3.1\Facade.csproj.CoreCompileInputs.cache
+G:\HandOn\New\demo\ADMDF_HandON\Design Pattern\Facade\Facade\obj\Debug\netcoreapp3.1\Facade.dll
+G:\HandOn\New\demo\ADMDF_HandON\Design Pattern\Facade\Facade\obj\Debug\netcoreapp3.1\Facade.pdb
+G:\HandOn\New\demo\ADMDF_HandON\Design Pattern\Facade\Facade\obj\Debug\netcoreapp3.1\Facade.genruntimeconfig.cache

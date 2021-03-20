@@ -1,0 +1,12 @@
+G:\HandOn\New\demo\ADMDF_HandON\Design Pattern\Mediator\Mediator\bin\Debug\netcoreapp3.1\Mediator.exe
+G:\HandOn\New\demo\ADMDF_HandON\Design Pattern\Mediator\Mediator\bin\Debug\netcoreapp3.1\Mediator.deps.json
+G:\HandOn\New\demo\ADMDF_HandON\Design Pattern\Mediator\Mediator\bin\Debug\netcoreapp3.1\Mediator.runtimeconfig.json
+G:\HandOn\New\demo\ADMDF_HandON\Design Pattern\Mediator\Mediator\bin\Debug\netcoreapp3.1\Mediator.runtimeconfig.dev.json
+G:\HandOn\New\demo\ADMDF_HandON\Design Pattern\Mediator\Mediator\bin\Debug\netcoreapp3.1\Mediator.dll
+G:\HandOn\New\demo\ADMDF_HandON\Design Pattern\Mediator\Mediator\bin\Debug\netcoreapp3.1\Mediator.pdb
+G:\HandOn\New\demo\ADMDF_HandON\Design Pattern\Mediator\Mediator\obj\Debug\netcoreapp3.1\Mediator.AssemblyInfoInputs.cache
+G:\HandOn\New\demo\ADMDF_HandON\Design Pattern\Mediator\Mediator\obj\Debug\netcoreapp3.1\Mediator.AssemblyInfo.cs
+G:\HandOn\New\demo\ADMDF_HandON\Design Pattern\Mediator\Mediator\obj\Debug\netcoreapp3.1\Mediator.csproj.CoreCompileInputs.cache
+G:\HandOn\New\demo\ADMDF_HandON\Design Pattern\Mediator\Mediator\obj\Debug\netcoreapp3.1\Mediator.dll
+G:\HandOn\New\demo\ADMDF_HandON\Design Pattern\Mediator\Mediator\obj\Debug\netcoreapp3.1\Mediator.pdb
+G:\HandOn\New\demo\ADMDF_HandON\Design Pattern\Mediator\Mediator\obj\Debug\netcoreapp3.1\Mediator.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+G:\HandOn\New\demo\ADMDF_HandON\Case Study-Design pattern\Final Case Study\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.exe
+G:\HandOn\New\demo\ADMDF_HandON\Case Study-Design pattern\Final Case Study\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.deps.json
+G:\HandOn\New\demo\ADMDF_HandON\Case Study-Design pattern\Final Case Study\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.json
+G:\HandOn\New\demo\ADMDF_HandON\Case Study-Design pattern\Final Case Study\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.dev.json
+G:\HandOn\New\demo\ADMDF_HandON\Case Study-Design pattern\Final Case Study\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.dll
+G:\HandOn\New\demo\ADMDF_HandON\Case Study-Design pattern\Final Case Study\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.pdb
+G:\HandOn\New\demo\ADMDF_HandON\Case Study-Design pattern\Final Case Study\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.csprojAssemblyReference.cache
+G:\HandOn\New\demo\ADMDF_HandON\Case Study-Design pattern\Final Case Study\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfoInputs.cache
+G:\HandOn\New\demo\ADMDF_HandON\Case Study-Design pattern\Final Case Study\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfo.cs
+G:\HandOn\New\demo\ADMDF_HandON\Case Study-Design pattern\Final Case Study\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.csproj.CoreCompileInputs.cache
+G:\HandOn\New\demo\ADMDF_HandON\Case Study-Design pattern\Final Case Study\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.dll
+G:\HandOn\New\demo\ADMDF_HandON\Case Study-Design pattern\Final Case Study\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.pdb
+G:\HandOn\New\demo\ADMDF_HandON\Case Study-Design pattern\Final Case Study\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.genruntimeconfig.cache

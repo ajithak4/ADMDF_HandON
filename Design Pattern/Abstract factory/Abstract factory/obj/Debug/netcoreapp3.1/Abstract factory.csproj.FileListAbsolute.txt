@@ -1,0 +1,13 @@
+C:\Users\889825\source\repos\Design Pattern\HandOn\Abstract factory\Abstract factory\obj\Debug\netcoreapp3.1\Abstract factory.csprojAssemblyReference.cache
+C:\Users\889825\source\repos\Design Pattern\HandOn\Abstract factory\Abstract factory\obj\Debug\netcoreapp3.1\Abstract factory.AssemblyInfoInputs.cache
+C:\Users\889825\source\repos\Design Pattern\HandOn\Abstract factory\Abstract factory\obj\Debug\netcoreapp3.1\Abstract factory.AssemblyInfo.cs
+C:\Users\889825\source\repos\Design Pattern\HandOn\Abstract factory\Abstract factory\obj\Debug\netcoreapp3.1\Abstract factory.csproj.CoreCompileInputs.cache
+C:\Users\889825\source\repos\Design Pattern\HandOn\Abstract factory\Abstract factory\bin\Debug\netcoreapp3.1\Abstract factory.exe
+C:\Users\889825\source\repos\Design Pattern\HandOn\Abstract factory\Abstract factory\bin\Debug\netcoreapp3.1\Abstract factory.deps.json
+C:\Users\889825\source\repos\Design Pattern\HandOn\Abstract factory\Abstract factory\bin\Debug\netcoreapp3.1\Abstract factory.runtimeconfig.json
+C:\Users\889825\source\repos\Design Pattern\HandOn\Abstract factory\Abstract factory\bin\Debug\netcoreapp3.1\Abstract factory.runtimeconfig.dev.json
+C:\Users\889825\source\repos\Design Pattern\HandOn\Abstract factory\Abstract factory\bin\Debug\netcoreapp3.1\Abstract factory.dll
+C:\Users\889825\source\repos\Design Pattern\HandOn\Abstract factory\Abstract factory\bin\Debug\netcoreapp3.1\Abstract factory.pdb
+C:\Users\889825\source\repos\Design Pattern\HandOn\Abstract factory\Abstract factory\obj\Debug\netcoreapp3.1\Abstract factory.dll
+C:\Users\889825\source\repos\Design Pattern\HandOn\Abstract factory\Abstract factory\obj\Debug\netcoreapp3.1\Abstract factory.pdb
+C:\Users\889825\source\repos\Design Pattern\HandOn\Abstract factory\Abstract factory\obj\Debug\netcoreapp3.1\Abstract factory.genruntimeconfig.cache
